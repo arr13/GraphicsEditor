@@ -1,0 +1,45 @@
+﻿  GraphicsEditor-MainWindow.cpp
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\Header.h(49): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(969): warning C4101: 'point3': unreferenced local variable
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(967): warning C4101: 'point1': unreferenced local variable
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(968): warning C4101: 'point2': unreferenced local variable
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(1929): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(1934): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(1939): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2061): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2062): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2095): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2096): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\Header.h(49): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(969): warning C4101: 'point3': unreferenced local variable
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(967): warning C4101: 'point1': unreferenced local variable
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(968): warning C4101: 'point2': unreferenced local variable
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(1929): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(1934): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(1939): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2061): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2062): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2095): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2096): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\things\fmi\pmmrp\github\graphics-editor-\graphicseditor\graphicseditor\GraphicsEditor-MainWindow.h(2164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source.cpp(52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source.cpp(258): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(264): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+Source.obj : warning LNK4248: unresolved typeref token (0100000D) for 'SDL_Window'; image may not run
+GraphicsEditor-MainWindow.obj : warning LNK4248: unresolved typeref token (0100000D) for 'SDL_Window'; image may not run
+Source.obj : warning LNK4248: unresolved typeref token (0100000E) for 'SDL_Renderer'; image may not run
+GraphicsEditor-MainWindow.obj : warning LNK4248: unresolved typeref token (0100000E) for 'SDL_Renderer'; image may not run
+Source.obj : warning LNK4248: unresolved typeref token (0100001F) for 'SDL_Texture'; image may not run
+GraphicsEditor-MainWindow.obj : warning LNK4248: unresolved typeref token (01000020) for 'SDL_Texture'; image may not run
+  GraphicsEditor.vcxproj -> D:\Things\FMI\PMMRP\GitHub\Graphics-Editor-\GraphicsEditor\Debug\GraphicsEditor.exe
